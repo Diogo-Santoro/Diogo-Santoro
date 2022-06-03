@@ -5,4 +5,4 @@
 - 📫 Fale comigo no email diogo.santoro05@gmail.com
 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Diogo-Santoro Status](https://github-readme-stats.vercel.app/api?username=Diogo-Santoro&show_icons=true)
