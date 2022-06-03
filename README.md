@@ -13,6 +13,6 @@
 
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Santoro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 Fale comigo no email diogo.santoro05@gmail.com
