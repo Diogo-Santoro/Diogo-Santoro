@@ -2,7 +2,7 @@
 
 - 💭 Very communicative and able to lead if its necessary
 - 🔎 Focusin on Back-End development    
-- 🔭 Avaiable
+- 🔭 Searching for work
 - 🌱 Estudying Java and starting TypeScript
 
 
