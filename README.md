@@ -18,4 +18,9 @@ Studying computer science, I am currently specializing in being a Back-end devel
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Santoro&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 - 📫 Talk to me! diogo.santoro05@gmail.com
+
+
+## Skills
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
