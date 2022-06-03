@@ -1,5 +1,7 @@
 ## Hi! I'm Diogo Santoro
 
+- 💭 Very communicative and able to lead if its necessary
+- 🔎 Focusin on Back-End development    
 - 🔭 Avaiable
 - 🌱 Estudying Java and starting TypeScript
 
@@ -23,4 +25,4 @@ Studying computer science, I am currently specializing in being a Back-end devel
 
 
 ## Skills
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
