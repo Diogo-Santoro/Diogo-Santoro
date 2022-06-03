@@ -24,5 +24,5 @@ Studying computer science, I am currently specializing in being a Back-end devel
 - 📫 Talk to me! diogo.santoro05@gmail.com
 
 
-## Skills
+
 
