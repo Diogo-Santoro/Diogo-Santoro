@@ -1,7 +1,7 @@
 ## Olá! Sou Diogo Santoro
 
-- 🔭 Atualmente não trabalho
-- 🌱 Estudando Java e TypeScript
+- 🔭 Avaiable
+- 🌱 Estudying Java and starting TypeScript
 
 
 
@@ -15,4 +15,4 @@
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Santoro&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 Fale comigo no email diogo.santoro05@gmail.com
+- 📫 Talk to me! diogo.santoro05@gmail.com
