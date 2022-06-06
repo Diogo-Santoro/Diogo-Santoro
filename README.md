@@ -1,7 +1,7 @@
 ## Hi! I'm Diogo Santoro
 
 - 💭 Very communicative and able to lead if its necessary
-- 🔎 Focusin on Back-End development    
+- 🔎 Focusing on Back-End development    
 - 🔭 Searching for work
 - 🌱 Estudying Java and starting TypeScript
 
