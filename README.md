@@ -10,7 +10,7 @@
 ![Diogo-Santoro Status](https://github-readme-stats.vercel.app/api?username=Diogo-Santoro&theme=dark&show_icons=true)  
 
 
-Studying computer science, I am currently specializing in being a Back-end developer, so I intend to learn a lot more about languages, such as Java, TypeScript, JavaScript and others, although I have already seen it, I want to go even further to be able to exercise my role wisely.
+Still studying, I am currently specializing in being a Back-end developer, so I intend to learn a lot more about languages, such as Java, TypeScript, JavaScript and others, although I have already seen it, I want to go even further to be able to exercise my role wisely.
 
 
 
