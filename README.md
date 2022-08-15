@@ -10,7 +10,7 @@
 ![Diogo-Santoro Status](https://github-readme-stats.vercel.app/api?username=Diogo-Santoro&theme=dark&show_icons=true)  
 
 
-Still studying, I am currently specializing in being a Back-end developer, so I intend to learn a lot more about languages, such as Java, TypeScript, C#, Visual Basic .Net and others, although I have already seen it, I want to go even further to be able to exercise my role wisely.
+Still studying, I am currently specializing in being a Back-end developer, so I intend to learn a lot more about languages, such as Java, TypeScript, C#, and others, although I have already seen it, I want to go even further to be able to exercise my role wisely. Today intern at Isbet as .Net Developer, using Visual Basic .Net and ASP.Net
 
 
 
