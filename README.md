@@ -2,7 +2,7 @@
 
 - 💭 Very communicative and able to lead if its necessary
 - 🔎 Focusing on Back-End development    
-- 🔭 Searching for work
+- 🔭 Working for ISBET (Instituto Brasileiro Pró-Educação, Trabalho e Desenvolvimento)
 - 🌱 Studying and Working
 
 
