@@ -1,7 +1,7 @@
 ## Hi! I'm Diogo Santoro
 
 - 💭 Very communicative and able to lead if its necessary
-- 🔎 Focusing on Back-End development    
+- 🔎 Focusing on Full Stack development    
 - 🔭 Working for ISBET (Instituto Brasileiro Pró-Educação, Trabalho e Desenvolvimento)
 - 🌱 Studying and Working
 
