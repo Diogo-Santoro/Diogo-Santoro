@@ -3,7 +3,7 @@
 - 💭 Very communicative and able to lead if its necessary
 - 🔎 Focusing on Full Stack development    
 - 🔭 Open to work
-- 🌱 Alwats studying and improving
+- 🌱 Always studying and improving
 
 
 
