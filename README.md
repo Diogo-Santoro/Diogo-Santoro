@@ -2,7 +2,7 @@
 
 - 💭 Very communicative and able to lead if its necessary
 - 🔎 Focusing on Full Stack development    
-- 🔭 Open to work
+- 🔭 Working at John Deere - IT Dealer Solutions
 - 🌱 Always studying and improving
 
 
