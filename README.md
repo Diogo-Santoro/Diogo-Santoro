@@ -9,7 +9,7 @@
 
 
 
-Nice to meet you, my name is Diogo, and I am 20 years old. I have experience in Visual Basic.NET, ASP.NET (along with JQuery), JavaScript, Typescript, SQL Server, Java, React.Js and of course, in presentations and teamwork. I also have knowledge in, Python and C#. Finally, I am fluent in English as well. I started learning in 2018 and graduated in 2019 at Yázigi.  
+Nice to meet you, my name is Diogo, and I am 21 years old. I have experience in Visual Basic.NET, ASP.NET (along with JQuery), JavaScript, Typescript, SQL Server, Java, React.Js and of course, in presentations and teamwork. I also have knowledge in, Python and C#. Finally, I am fluent in English as well. I started learning in 2018 and graduated in 2019 at Yázigi.  
 I also completed my Technical Education in Informatics at FIEC and am now pursuing a degree in Higher Education, as well as other professional courses to further enhance my knowledge.
 
 
