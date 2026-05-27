@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Nice to meet you! my name is Diogo and I am 21 years old. I have experience in Visual Basic.NET, ASP.NET (along with JQuery), JavaScript, Typescript, SQL Server, Java, React.Js and of course, in presentations and teamwork. Finally, I am fluent in English as well. I started learning in 2018 and graduated in 2019 at Yázigi.  <br>I also completed my Technical Education in Informatics at FIEC and am now pursuing a degree in Higher Education, as well as other professional courses to further enhance my knowledge.<br><br>📫 Talk to me! <a href="mailto:diogo.santoro05@gmail.com">diogo.santoro05@gmail.com</a></p>
+<p align="left"><p align="left">Nice to meet you! my name is Diogo and I am 21 years old. I have experience in Visual Basic.NET, ASP.NET (along with JQuery), JavaScript, Typescript, SQL Server, Java, React.Js and of course, in presentations and teamwork. Finally, I am fluent in English as well. I started learning in 2018 and graduated in 2019 at Yázigi.  <br>I also completed my Technical Education in Informatics at FIEC and am now pursuing a degree in Higher Education, as well as other professional courses to further enhance my knowledge.<br><br>📫 Talk to me! <a href="mailto:diogo.santoro05@gmail.com">diogo.santoro05@gmail.com</a></p></p>
 
 ###
 
@@ -39,9 +39,15 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diogo-Santoro/Diogo-Santoro/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diogo-Santoro/Diogo-Santoro/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diogo-Santoro/Diogo-Santoro/pacman-output/breakout-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diogo-Santoro/Diogo-Santoro/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diogo-Santoro/Diogo-Santoro/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diogo-Santoro/Diogo-Santoro/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
