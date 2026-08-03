@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- 💭 Very communicative and able to lead if its necessary<br>- 🔎 Focusing on Full Stack development<br>- 🌱 Always studying and improving<br>- 🔭 Working at John Deere - IT Dealer Solutions</p>
+<p align="left">- 💭 Very communicative and able to lead if its necessary<br>- 🔎 Focusing on Full Stack development<br>- 🌱 Always studying and improving<br>- 🔭 Open To Work </p>
 
 ###
 
